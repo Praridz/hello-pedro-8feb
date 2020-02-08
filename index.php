@@ -3,6 +3,6 @@
   <title>Prueba de Pedro Rios</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
+ <?php echo '<p>Hola Pedro</p>'; ?>
  </body>
 </html>
